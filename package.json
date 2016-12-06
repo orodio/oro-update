@@ -1,0 +1,12 @@
+{
+  "name": "oro-update",
+  "version": "0.0.0",
+  "description": "update nested values",
+  "main": "index.js",
+  "repository": "https://github.com/orodio/oro-update",
+  "author": "orodio",
+  "license": "MIT",
+  "dependencies": {
+    "oro-cursor": "^1.0.0"
+  }
+}
